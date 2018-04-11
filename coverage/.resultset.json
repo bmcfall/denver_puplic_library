@@ -1,43 +1,11 @@
 {
   "Unit Tests": {
     "coverage": {
-      "/Users/bmcfall/turing/eval/dpl/denver_puplic_library/lib/author.rb": [
+      "/Users/bmcfall/turing/eval/dpl/denver_puplic_library/lib/library.rb": [
         1,
-        null,
-        1,
-        null,
-        null,
-        1,
-        4,
-        4,
-        null,
-        null,
-        1,
-        4,
-        null,
-        null,
-        null
-      ],
-      "/Users/bmcfall/turing/eval/dpl/denver_puplic_library/lib/book.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        4,
-        4,
-        4,
-        4,
-        4,
-        null,
-        null,
         null
       ]
     },
-    "timestamp": 1523464822
+    "timestamp": 1523465749
   }
 }
